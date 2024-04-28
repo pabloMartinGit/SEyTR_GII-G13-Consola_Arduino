@@ -25,11 +25,14 @@ Estos son los materiales necesarios para realizar una única consola, si se dese
 ## Configuración y montaje
 
 Comenzamos con el montaje de la consola, a continuación os adjuntamos un diagrama de conexiones.
+![esquema final_bb](https://github.com/pabloMartinGit/SEyTR_GII-G13-Consola_Arduino/assets/48807058/955f667d-6f7f-4055-a114-51614a3d26b5)
+Este proyecto se puede llevar a cabo usando una protoboard o si disponemos de estaño y un soldador, podemos realizar las conexiones de una forma más fiable y duradera, en nuestro caso, combinamos el uso de soldaduras con clemas de electricidad para asegurar que las conexiones son fiables y los cables no se desconectaban.
+Ya que el espiritu de este proyecto es llevar a cabo una consola asequible, estaremos usando una pila de 9V para alimentar el Arduino y el resto de componentes, esta pila se conecta al Arduino y este se encarga de transformar esta tensión a 5V, los cuales necesitamos para alimentar la pantalla, el módulo BT, etc.
+
+### Software
 
 
-### Firmware y Software
 
-Detalles sobre el software necesario, incluyendo cómo y dónde descargarlo. Si el software necesita configuración especial, proporcionar también esas instrucciones.
 
 ## Código
 
