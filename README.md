@@ -13,6 +13,7 @@ Nuestro objetivo principal como desarrolladores ha sido el de llevar este proyec
 - Pantalla OLED SH1106 (equiv. SSD1306)
 - Cuatro botones
 - Cuatro resistencias de 10k Ohmios
+- Joystick
 - Un modulo Bluetooth HC-05
 - Un zumbador activo
 - Cable de wrapping preferiblemente
@@ -23,6 +24,7 @@ Estos son los materiales necesarios para realizar una única consola, si se dese
 
 ## Configuración y montaje
 
+Comenzamos con el montaje de la consola, a continuación os adjuntamos un diagrama de conexiones.
 
 
 ### Firmware y Software
