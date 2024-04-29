@@ -48,6 +48,14 @@ Para la carcasa de nuestra consola usamos una tabla de madera pintada con Spray 
 
 ---
 
+### Consola por dentro
+
+![IMG_4833](https://github.com/pabloMartinGit/SEyTR_GII-G13-Consola_Arduino/assets/48807058/b7da499e-93fb-415e-b586-e347244823b7)
+
+Aqui podeis observar como llevamos a cabo las conexiones de la consola con las clemas, estaño y usando silicona para pegar los componentes fijos.
+
+---
+
 ### Consolas Encendidas
 
 ![Consolas Encendidas](https://github.com/pabloMartinGit/SEyTR_GII-G13-Consola_Arduino/assets/48807058/50f2eaac-1c07-491b-9f71-33cf719852ed)
